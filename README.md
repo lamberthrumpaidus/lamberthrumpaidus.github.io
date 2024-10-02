@@ -2,7 +2,6 @@
 
 **Diciptakan dengan cinta oleh [Lamberth Rumpaidus](https://github.com/lamberthrumpaidus)**
 
----
 
 **Rubaka** adalah **game aksi-platformer** yang membawa pemain ke dalam dunia mitologis yang misterius dan penuh tantangan. Kumpulkan tulang, hadapi musuh beragam, dan jelajahi biome yang unik untuk mencapai skor tertinggi dan mengukir namamu di puncak!
 
